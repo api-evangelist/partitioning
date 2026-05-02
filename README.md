@@ -1,11 +1,26 @@
-# Partitioning ()
-Partitioning is a technology or concept used in computing and information technology to address specific technical challenges. It provides capabilities that help practitioners build, manage, or improve systems and processes in their domain.
+# Partitioning (partitioning)
+Partitioning is a data and systems concept used to divide databases, tables, storage, or workloads into smaller, more manageable pieces for performance, scalability, and operational reasons.
 
-## Tags:
+**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/partitioning/refs/heads/main/apis.yml)
 
- - Partitioning
+## Scope
+
+- **Type:** Concept
+
+## Tags
+
+- Partitioning
+- Database
+- Scalability
+- Architecture
 
 ## Timestamps
 
-- **Created:** 2025 
-- **Modified:** 2025 
+- **Created:** 2025-01-01
+- **Modified:** 2026-04-28
+
+## Maintainers
+
+**FN:** Kin Lane
+
+**Email:** kin@apievangelist.com
