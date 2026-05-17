@@ -4,7 +4,7 @@ description: >-
   Partitioning is a data and systems concept used to divide databases, tables,
   storage, or workloads into smaller, more manageable pieces for performance,
   scalability, and operational reasons.
-type: Concept
+kind: concept
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Partitioning
