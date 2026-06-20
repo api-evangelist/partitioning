@@ -5,7 +5,7 @@ description: >-
   storage, or workloads into smaller, more manageable pieces for performance,
   scalability, and operational reasons.
 kind: concept
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Partitioning
   - Database
